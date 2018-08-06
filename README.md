@@ -18,4 +18,4 @@ The project uses the following libraries:
 
 # Note
 
-The repository only includes a jupyter notebook containing the static code, a set of Filipino stopwords from [stopwords-iso](https://github.com/stopwords-iso/stopwords-tl), and a list of translated Filipino stopwords from nltk's English stopwords.
+The repository only includes a jupyter notebook containing the static code, a set of Filipino stopwords from [stopwords-iso](https://github.com/stopwords-iso/stopwords-tl), and a list of translated Filipino stopwords from nltk's English stopwords. Other resources were not uploaded for privacy.
